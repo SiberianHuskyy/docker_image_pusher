@@ -1,2 +1,2 @@
 pan93412/unblock-netease-music-enhanced
-snowdreamtech/frps
+cloverzrg/frps-docker
