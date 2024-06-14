@@ -1,2 +1,3 @@
 pan93412/unblock-netease-music-enhanced
 cloverzrg/frps-docker
+6053537/portainer-ce
